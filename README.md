@@ -16,9 +16,12 @@ The repository is organized by content type to make it easy to find what you nee
 ```text
 iqtoolkit-resources/
 │
-├──  pdf-guides/         # Deep-dive PDFs and slide decks
+├── 🐘 postgres-architecture/   # PostgreSQL deep-dive series
+│   └── video-01-process-memory/
 │
-└── 📄 cheat-sheets/       # Quick reference guides and one-pagers
+├── 📚 pdf-guides/              # Deep-dive PDFs and slide decks
+│
+└── 📄 cheat-sheets/            # Quick reference guides and one-pagers
 ```
 
 ---
@@ -48,8 +51,7 @@ Star ⭐ this repo to get notified when new resources are added!
 
 | Video | Resource | Description |
 |-------|----------|-------------|
-| *Coming Soon* | 📁 [Link] | Description of resource |
-| *Coming Soon* | 📁 [Link] | Description of resource |
+| PostgreSQL Architecture: Process Model & Memory | [📁 video-01-process-memory](postgres-architecture/video-01-process-memory/) | Memory Tuning Reality demo - work_mem dangers |
 
 > 💡 **Tip:** Each folder contains its own README with specific instructions for that tutorial.
 
